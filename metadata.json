@@ -1,0 +1,5 @@
+{
+  "name": "VoxConvert",
+  "description": "A voice-based message converter that transforms your speech into different styles and languages using Gemini AI.",
+  "requestFramePermissions": ["microphone"]
+}
