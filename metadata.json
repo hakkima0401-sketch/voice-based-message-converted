@@ -1,5 +1,5 @@
 {
-  "name": "VoxConvert",
-  "description": "A voice-based message converter that transforms your speech into different styles and languages using Gemini AI.",
+  "name": "SmartFAQ",
+  "description": "An intelligent FAQ chatbot that answers your questions using Gemini AI, supporting both text and voice input.",
   "requestFramePermissions": ["microphone"]
 }
